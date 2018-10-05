@@ -15,7 +15,7 @@ In grey colour: existing building; in red colour: building constructed in the co
 
 ![Process of a simulation with ArtiScales](ArtiScales-presentation-en_v0.png)
 
-**ArtiScales has been created by:**
+### ArtiScales has been created by:
 - [Maxime Colomb](http://recherche.ign.fr/labos/cogit/english/cv.php?nom=Colomb) (as part of his PhD thesis)
 - [Mickaël Brasebin](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Brasebin)
 - [Julien Perret](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Perret)
