@@ -9,7 +9,7 @@ SimPLU3D simulates the building constructibility within a land parcel or a group
 
 ![Example of simulation result](ArtiScalesExampleSimulationResults.png)
 
-*In grey colour: existing building; in red colour: building constructed in the course of the simulation.*
+In grey colour: existing building; in red colour: building constructed in the course of the simulation.
 
 ### Process of a simulation with ArtiScales
 
