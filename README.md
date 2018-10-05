@@ -5,10 +5,14 @@ MUP-City simulates scenarios of residential development for an entire urban regi
 
 SimPLU3D simulates the building constructibility within a land parcel or a group of parcels by generating 3D buildings that respect the rules of the local urban masterplan (in French, *Plan Local d'Urbanisme - PLU*) as well as other morphological constraints.
 
-# Example of simulation result # In grey colour: existing building; in red colour: building constructed in the course of the simulation.
+# Example of simulation result
+
 ![Example of simulation result](ArtiScalesExampleSimulationResults.png)
 
-**Process of a simulation with ArtiScales**
+In grey colour: existing building; in red colour: building constructed in the course of the simulation.
+
+# Process of a simulation with ArtiScales
+
 ![Process of a simulation with ArtiScales](ArtiScales-presentation-en_v0.png)
 
 ArtiScales has been created by [Maxime Colomb](http://recherche.ign.fr/labos/cogit/english/cv.php?nom=Colomb) (as part of his PhD thesis), [Mickaël Brasebin](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Brasebin), [Julien Perret](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Perret), and [Cécile Tannier](http://thema.univ-fcomte.fr/en/page_personnelle/ctannier).
