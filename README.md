@@ -5,5 +5,5 @@ MUP-City simulates scenarios of residential development for an entire urban regi
 
 SimPLU3D simulates the potential building possibilities in a cluster of houses (*i. e.* a land parcel or a group of parcels) by generating 3D buildings configurations that respect the constraints of the local urban masterplan (in French, *Plan Local d'Urbanisme - PLU*).
 
-**Example of simulation result**
+**Example of simulation result** In grey colour: existing building; in red colour: building constructed in the course of the simulation.
 ![Example of simulation result](ArtiScalesExampleSimulationResults.png)
