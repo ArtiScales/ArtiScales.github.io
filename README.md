@@ -3,7 +3,7 @@ The spatial simulation platform ArtiScales supports the integration of regional 
 
 MUP-City simulates scenarios of residential development for an entire urban region given a set of planning rules. The first rule ensures that the pattern of cells worth urbanising is fractal. The other planning rules take account of the proximity of roads, accessibility of shops and services, accessibility to public transport, proximity of open spaces, and the presence of areas that cannot be built on. The identification of cells worth urbanising takes the form of a raster map of potential building cells, each characterised by the worth of urbanising them. How worthwhile it is for a cell to be urbanised ranges from zero to one.
 
-SimPLU3D simulates the potential building possibilities in a cluster of houses (*i. e.* a land parcel or a group of parcels) by generating 3D buildings configurations that respect the constraints of the local urban masterplan (in French, *Plan Local d'Urbanisme - PLU*).
+SimPLU3D simulates the building constructibility within a land parcel or a group of parcels by generating 3D buildings that respect the rules of the local urban masterplan (in French, *Plan Local d'Urbanisme - PLU*) as well as other morphological constraints.
 
 **Example of simulation result** In grey colour: existing building; in red colour: building constructed in the course of the simulation.
 ![Example of simulation result](ArtiScalesExampleSimulationResults.png)
