@@ -7,3 +7,5 @@ SimPLU3D simulates the building constructibility within a land parcel or a group
 
 **Example of simulation result** In grey colour: existing building; in red colour: building constructed in the course of the simulation.
 ![Example of simulation result](ArtiScalesExampleSimulationResults.png)
+
+ArtiScales has been created by [Maxime Colomb](http://recherche.ign.fr/labos/cogit/english/cv.php?nom=Colomb) (as part of his PhD thesis), [Mickaël Brasebin](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Brasebin), [Julien Perret](http://recherche.ign.fr/labos/cogit/english/cv.php?prenom=&nom=Perret), and [Cécile Tannier](http://thema.univ-fcomte.fr/en/page_personnelle/ctannier).
