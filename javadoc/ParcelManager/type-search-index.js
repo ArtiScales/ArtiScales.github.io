@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fr.ign.artiscales.analysis","l":"StreetRatioParcels"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fr.ign.artiscales.pm.workflow","l":"Densification"}]
